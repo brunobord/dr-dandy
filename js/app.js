@@ -49,7 +49,8 @@ $(document).ready(function() {
         $('#items').html('');
         for (var i = 0; i < filtered.length; i++) {
             var elt = filtered[i];
-            $('#items').append('<p><span class="label label-'+meta.types[elt.type].class+'">'+elt.type+'</span> '+elt.content+'</p>');
+            var _type = meta.types[elt.type];
+            $('#items').append('<p><span class="label label-'+_type.class+'">'+_type.label+'</span> '+elt.content+'</p>');
         }
 
     }
