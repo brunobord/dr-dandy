@@ -1,6 +1,26 @@
 [
     {"type": "character", "content": "Le seigneur mégalomaniaque aux penchants nihilistes"},
-    {"type": "plot", "content": "Empêcher la propagation d’une catastrophe"},
+    {"type": "plot", "content": "Empêcher la propagation d'une catastrophe"},
     {"type": "location", "content": "Un lieu isolé hors du temps"},
-    {"type": "character", "content": "Le personnage qui sème les graines de sa propre perte"}
+    {"type": "character", "content": "Le personnage qui sème les graines de sa propre perte"},
+    {"type": "character", "content": "Un russe blanc à l'esprit intègre"},
+    {"type": "character", "content": "Le nerd aux talents cachés"},
+    {"type": "character", "content": "Une femme d'action aux méthodes expéditives"},
+    {"type": "character", "content": "Un roi fantoche"},
+    {"type": "character", "content": "L'homme de l'ombre qu'on appelle en dernière nécessité"},
+    {"type": "location", "content": "Une tour gigantesque avec une horloge"},
+    {"type": "location", "content": "Une cité souterraine inconnue et oubliée"},
+    {"type": "location", "content": "Un zeppelin de vapeur et d'acier"},
+    {"type": "location", "content": "Une ville fantôme"},
+    {"type": "location", "content": "Le siège du gouvernement"},
+    {"type": "plot", "content": "Une guerre pour des ressources"},
+    {"type": "plot", "content": "Un triangle amoureux"},
+    {"type": "plot", "content": "Un virus qui change les victimes en monstres"},
+    {"type": "plot", "content": "Les héros sont assassinés"},
+    {"type": "plot", "content": "Les villageois ne sont pas ce qu'ils prétendent"},
+    {"type": "twist", "content": "Le surnaturel intervient alors qu'on ne l'attend pas"},
+    {"type": "twist", "content": "Un personnage va aider les héros de manière fortuite"},
+    {"type": "twist", "content": "La douce épouse est pleine de surprises"},
+    {"type": "twist", "content": "Un personnage gagne en puissance"},
+    {"type": "twist", "content": "L'intrigue se résout (trop ?) facilement"}
 ]
