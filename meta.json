@@ -1,0 +1,8 @@
+{
+    "types": {
+        "character": {"label": "Personnages", "class": "success"},
+        "location": {"label": "Décors", "class": "info"},
+        "plot": {"label": "Intrigues", "class": "primary"},
+        "twist": {"label": "Péripéties", "class": "danger"}
+    }
+}
